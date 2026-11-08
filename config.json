@@ -1,0 +1,30 @@
+{
+  "name": {
+    "zh-cn": "MAX30102 心率血氧传感器模块V2",
+    "en": "MAX30102 Heart Rate and Oximeter Sensor V2"
+  },
+  "description": {
+    "zh-cn": "适用于掌控板和micro:bit的I2C模式MAX30102心率血氧传感器模块V2扩展",
+    "en": "MAX30102 Heart Rate and Oxygen Sensor V2 Expansion for esp32 and micro:bit (I2C Mode)"
+  },
+  "author": "Xingstar",
+  "email": "xingstardog@gmail.com",
+  "license": "MIT",
+  "isBoard": false,
+  "id": "max30102",
+  "platform": [
+    "win"
+  ],
+  "version": "0.0.4",
+  "asset": {
+    "arduinoC": {
+      "dir": "arduinoC/",
+      "version": "0.0.4",
+      "board": [
+        "microbit",
+        "esp32"
+      ],
+      "main": "main.ts"
+    }
+  }
+}

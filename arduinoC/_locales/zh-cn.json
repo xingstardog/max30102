@@ -1,0 +1,11 @@
+{
+    "max30102.init|block": "初始化 MAX30102",
+    "max30102.noteSep1|block": "---",
+    "max30102.isReady|block": "传感器连接成功？",
+    "max30102.update|block": "更新心率血氧数据",
+    "max30102.getHR|block": "获取心率 (BPM)",
+    "max30102.getSPO2|block": "获取血氧 (SPO2)",
+    "max30102.getTemp|block": "获取传感器温度 (℃)",
+    "max30102.noteSep2|block": "---",
+    "max30102.stop|block": "停止采集"
+}
