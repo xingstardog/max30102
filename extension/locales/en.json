@@ -1,0 +1,10 @@
+{
+  "gui.extensionName.max30102": "MAX30102 Heart Rate & Oximeter",
+  "gui.blocklyText.max30102.init": "initialize MAX30102",
+  "gui.blocklyText.max30102.isReady": "sensor connected?",
+  "gui.blocklyText.max30102.update": "update heart rate and SpO2 data",
+  "gui.blocklyText.max30102.getHR": "heart rate (BPM)",
+  "gui.blocklyText.max30102.getSPO2": "blood oxygen (SPO2)",
+  "gui.blocklyText.max30102.getTemp": "sensor temperature (℃)",
+  "gui.blocklyText.max30102.stop": "stop collecting"
+}

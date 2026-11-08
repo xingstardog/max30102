@@ -1,0 +1,28 @@
+{
+  "id": "max30102",
+  "author": "xingstar",
+  "version": "0.1.0",
+  "name": {
+    "zh-cn": "MAX30102 心率血氧传感器",
+    "en": "MAX30102 Heart Rate and Oximeter Sensor"
+  },
+  "description": {
+    "zh-cn": "通过 I2C 读取 MAX30102 心率、血氧与芯片温度",
+    "en": "Read heart rate, SpO2 and chip temperature from MAX30102 over I2C"
+  },
+  "cover": "cover.png",
+  "isDevice": false,
+  "mode": "upload",
+  "main": "main.js",
+  "supportDevices": {
+    "dev-DFRobot-microbitV2": "^0.0.4",
+    "dev-DFRobot-handpyEsp32": "^0.0.3"
+  },
+  "supportArch": [],
+  "libraryConfig": [],
+  "meta": {
+    "runtimeVersion": "0.0.1"
+  },
+  "sku": "SEN0344",
+  "compatibilityId": "xingstar-max30102-thirdex"
+}
